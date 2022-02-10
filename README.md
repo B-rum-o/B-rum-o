@@ -11,6 +11,7 @@
 <p>
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png">
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 </p>
 
 <br>
